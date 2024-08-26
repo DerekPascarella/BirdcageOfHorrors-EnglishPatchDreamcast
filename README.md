@@ -90,7 +90,7 @@
  <li>New English-language playback software graphics (e.g., contents list, logo, messages) have been implemented.</li>
  <li>A new English-language VMU icon has been implemented, including brand-new code for VMU icon support missing from original software.</li>
  <li>Lockout mechanism has been removed which prevented video playback without the use of special VMU save files, allowing each disc to function standalone.</li>
- <li>All 407 videos (film series chapters, bonus clips, extra footage, and interviews) has been translated and subtitled into English.</li>
+ <li>All 407 videos (film series chapters, bonus clips, extra footage, and interviews) have been translated and subtitled into English.</li>
 </ul>
 
 <h2>About the Film Series</h2>
