@@ -188,7 +188,7 @@ Shortly after the final episode was released, the servers went offline. While th
         </td>
     </tr>
     <tr>
-        <td>NULL</td>
+        <td>img width="95" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/ai.jpg?raw=true"></td>
         <td>
             <b>Ai Shinjō</b> <i>(played by Ayaka Izumi)</i><br>
             A young girl with a rough upbringing who lives in a children's orphanage.
