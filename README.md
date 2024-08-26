@@ -181,7 +181,7 @@ Shortly after the final episode was released, the servers went offline. While th
         </td>
     </tr>
     <tr>
-        <td>NULL</td>
+        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/saiko.jpg?raw=true"></td>
         <td>
             <b>Saiko Yukimura</b><br>
             The owner of Grauenheim.
