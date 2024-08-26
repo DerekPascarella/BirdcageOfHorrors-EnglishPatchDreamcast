@@ -167,7 +167,7 @@ Shortly after the final episode was released, the servers went offline. While th
         </td>
     </tr>
     <tr>
-        <td>NULL</td>
+        <td><img width="95" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/asao.jpg?raw=true"></td>
         <td>
             <b>Asao Tsunoda</b> <i>(played by Tetsu Watanabe)</i><br>
             Nao's father and president of Ishida Construction.
