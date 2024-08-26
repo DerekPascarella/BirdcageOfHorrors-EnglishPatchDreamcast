@@ -18,9 +18,12 @@
 <h2>Table of Contents</h2>
 
 1. [Patching Instructions](#patching-instructions)
-2. [About the Film Series](#about-the-film-series)
-3. [Playback Controls](#playback-controls)
-4. [Cast and Crew](#cast-and-crew)
+2. [Credits](#credits)
+3. [Release Changelog](#release-changelog)
+4. [What's Changed](#whats-changed)
+5. [About the Film Series](#about-the-film-series)
+6. [Playback Controls](#playback-controls)
+7. [Cast and Crew](#cast-and-crew)
 
 <h2>Patching Instructions</h2>
 <img align="right" width="250" src="https://github.com/DerekPascarella/UniversalDreamcastPatcher/blob/main/screenshots/screenshot.png?raw=true">The DCP patch file shipped with this release is designed for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer.  Note that Universal Dreamcast Patcher supports both TOSEC-style GDI and Redump-style CUE disc images as source input.
@@ -31,6 +34,67 @@
  <li>Click "Apply Patch" to generate the patched GDI, which will be saved in the folder from which the application is launched.</li>
  <li>Click "Quit" to exit the application.</li>
 </ol>
+
+<h2>Credits</h2>
+<ul>
+ <li><b>Programming / Hacking</b></li>
+  <ul>
+   <li>Derek Pascarella (ateam)</li>
+  </ul>
+ <br>
+ <li><b>Original Story Translation</b></li>
+  <ul>
+   <li>Anonymous</li>
+  </ul>
+ <br>
+ <li><b>Interview Video Transcription</b></li>
+  <ul>
+   <li>Tchan</li>
+  </ul>
+ <br>
+ <li><b>Interview Video Translation</b></li>
+  <ul>
+   <li>Walnut</li>
+  </ul>
+ <br>
+ <li><b>Graphics</b></li>
+  <ul>
+   <li>Derek Pascarella (ateam)</li>
+  </ul>
+ <br>
+ <li><b>Subtitle Editing</b></li>
+  <ul>
+   <li>Derek Pascarella (ateam)</li>
+  </ul>
+ <br>
+  <li><b>Special Thanks</b></li>
+  <ul>
+   <li>HaydenKow (providing original subtitles translated by Anonymous)</li>
+  </ul>
+</ul>
+
+<h2>Release Changelog</h2>
+<ul>
+ <li><b>Version 1.0 (2024-XX-XX)</b></li>
+ <ul>
+  <li>Initial release.</li>
+ </ul>
+</ul>
+
+<h2>What's Changed</h2>
+<img width="210" height="230" align="right" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/controller_with_vmu.jpg?raw=true">Below is a high-level list of changes implemented for this English translation patch.
+<br><br>
+<ul>
+ <li>xxxxx</li>
+ <li>xxxxx</li>
+ <li>xxxxx</li>
+ <li>xxxxx</li>
+ <li>xxxxx</li>
+ <li>xxxxx</li>
+ <li>xxxxx</li>
+ <li>xxxxx</li>
+ <li>xxxxx</li>
+</ul>
 
 <h2>About the Film Series</h2>
 <img width="267" height="200" align="right" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/player.jpg?raw=true">"Birdcage of Horrors" (グラウエンの鳥籠) is a horror/murder mystery film series produced and published by Sega in association with ASCII Entertainment & Communications. The series was described as an "iDra", or "Internet Drama". It was released between September and July of 1999, taking the form of six multimedia GD-ROM discs. While the format and structure of these discs is not technically <a href="https://segaretro.org/Mil-CD">MiL-CD</a>, they do leverage Sega's own MiL-CD playback software.
