@@ -72,7 +72,7 @@ Shortly after the final episode was released, the servers went offline. While th
 </table>
 
 <h2>Cast and Crew</h2>
-"Birdcage of Horrors" was directed by Yasushi Akimoto, with scriptwriting from ???? and planning done by ????.
+"Birdcage of Horrors" was directed by Naoto Yamakawa, with scriptwriting from Kazuaki Takano and planning done by Yasushi Akimoto.
 <br><br>
 <table>
     <tr>
