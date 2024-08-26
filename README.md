@@ -58,7 +58,7 @@ Shortly after the final episode was released, the servers went offline. While th
     </tr>
     <tr>
         <td>B Button</td>
-        <td>Toggle playback command window visibility / Exit / Go back</td>
+        <td>Toggle command window visibility / Exit</td>
     </tr>
     <tr>
         <td>Start Button</td>
