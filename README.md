@@ -24,6 +24,7 @@
 5. [About the Film Series](#about-the-film-series)
 6. [Playback Controls](#playback-controls)
 7. [Cast and Crew](#cast-and-crew)
+8. [Bug Reports and Typos](#bug-reports-and-typos)
 
 <h2>Patching Instructions</h2>
 <img align="right" width="250" src="https://github.com/DerekPascarella/UniversalDreamcastPatcher/blob/main/screenshots/screenshot.png?raw=true">The DCP patch file shipped with this release is designed for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer.  Note that Universal Dreamcast Patcher supports both TOSEC-style GDI and Redump-style CUE disc images as source input.
@@ -262,3 +263,6 @@ Shortly after the final episode was released, the servers went offline. While th
         </td>
     </tr>
 </table>
+
+<h2>Bug Reports and Typos</h2>
+Should a player encounter what they believe to be a bug or typo (spelling/grammar error) during their viewing of "Birdcage of Horrors", it's asked that they please share their findings by <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/issues/new">submitting a new issue</a>.
