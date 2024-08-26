@@ -182,14 +182,14 @@ Shortly after the final episode was released, the servers went offline. While th
         <td><img width="95" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/ryoji.jpg?raw=true"></td>
         <td>
             <b>Ryōji Karino</b> <i>(played by Kinzo Sakura)</i><br>
-            A resident of room 101 on the 1st floor of Grauenheim. He's a door-to-door salesman.
+            A resident of room 101 on the 1st floor of Grauenheim. He's a salesman who specializes in live product demonstrations.
         </td>
     </tr>
     <tr>
         <td><img width="95" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/kiyoko.jpg?raw=true"></td>
         <td>
             <b>Kiyoko Mita</b> <i>(played by Miki Sanjō)</i><br>
-            A resident of room 102 on the 1st floor of Grauenheim.
+            A resident of room 102 on the 1st floor of Grauenheim. She sells cosmetics door to door.
         </td>
     </tr>
     <tr>
