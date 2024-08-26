@@ -196,7 +196,7 @@ Shortly after the final episode was released, the servers went offline. While th
         <td><img width="95" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/goro.jpg?raw=true"></td>
         <td>
             <b>Gorō Katase</b> <i>(played by Shigeru Honma)</i><br>
-            A resident of room 203 on the 2nd floor of Grauenheim. He works as a sound engineer.
+            A resident of room 203 on the 2nd floor of Grauenheim. He works as an audio engineer.
         </td>
     </tr>
     <tr>
