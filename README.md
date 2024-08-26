@@ -45,6 +45,10 @@ Shortly after the final episode was released, the servers went offline. While th
 <br><br>
 <table>
     <tr>
+        <td><b>Button</b></td>
+        <td><b>Function</b></td>
+    </tr>
+    <tr>
         <td>L Trigger</td>
         <td>Skip back a track</td>
     </tr>
