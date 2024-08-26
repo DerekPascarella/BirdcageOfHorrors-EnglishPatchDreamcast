@@ -35,6 +35,6 @@
 <br><br>
 The film series was available through the <a href="https://segaretro.org/Sega_Direct">Dreamcast Direct</a> online service and was uniquely presented in 365 one-minute episodes across each of the six discs. Each episode became accessible gradually over a year, from October 1st, 1999 to October 1st, 2000. Originally, viewers had to connect their Dreamcast to the internet daily and download special save files to their VMU to unlock new episodes. Additionally, each entry of "Grauen no Torikago" was only available to those who completed the previous chapters.
 <br><br>
-Additionally, a dedicated "Birdcage of Horrors" website was hosted by ASCII Entertainment & Communications where viewers could stream the series using both Windows Media Player and RealPlayer on their PC.
+Additionally, a <a href="https://web.archive.org/web/20000817025240/http://www.e-sekai.com/grauen/">dedicated "Birdcage of Horrors" website</a> was hosted by ASCII Entertainment & Communications where viewers could stream the series using Windows Media Player, RealPlayer, or QuickTime Player on their PC or Mac.
 <br><br>
 Shortly after the final episode was released, the servers went offline. While there does exist a special VMU save file that allows viewers to watch the content on all six GD-ROMs, this English translation patch removes this requirement. Instead, all six discs function as standalone pieces of software.
