@@ -20,6 +20,7 @@
 1. [Patching Instructions](#patching-instructions)
 2. [About the Film Series](#about-the-film-series)
 3. [Playback Controls](#playback-controls)
+4. [Cast and Crew](#cast-and-crew)
 
 <h2>Patching Instructions</h2>
 <img align="right" width="250" src="https://github.com/DerekPascarella/UniversalDreamcastPatcher/blob/main/screenshots/screenshot.png?raw=true">The DCP patch file shipped with this release is designed for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer.  Note that Universal Dreamcast Patcher supports both TOSEC-style GDI and Redump-style CUE disc images as source input.
@@ -67,5 +68,137 @@ Shortly after the final episode was released, the servers went offline. While th
     <tr>
         <td>Start Button</td>
         <td>Toggle play/pause</td>
+    </tr>
+</table>
+
+<h2>Cast</h2>
+"Birdcage of Horrors" was directed by Yasushi Akimoto, with scriptwriting from ???? and planning done by ????.
+<br><br>
+<table>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Nao Tsunoda</b> <i>(played by Sayaka Yoshino)</i><br>
+            The main character of the story. She's a high school girl who starts living alone in room 408 on the 4th floor of the "Grauenheim" apartment building, which her father rented for her.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Tetsu Takamura</b> <i>(played by Norihiko Okuma)</i><br>
+            A young university student who works part-time at the Grauenheim apartment building's café. He cares a lot for Nao.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Detective Gōda</b> <i>(played by Setsurō Watanabe)</i><br>
+            A detective from the Den-en Police Station who leads the investigation.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Saburō Maeda</b> <i>(played by Hiroshi Kōbe)</i><br>
+            The manager of the apartment and the owner of its basement café.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Immoral Iwata (Zenichirō Iwata)</b> <i>(played by Pepe Hosokoshi)</i><br>
+            A resident of room 510 on the 5th floor of Grauenheim. He's a professional wrestler, and his signature move is the "Immoral Special".
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Eriko Shimizu</b> <i>(played by Kaoru Sugita)</i><br>
+            A resident of room 407 on the 4th floor of Grauenheim. She works in the medical field.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Ryōji Karino</b> <i>(played by Kinzo Sakura)</i><br>
+            A resident of room 101 on the 1st floor of Grauenheim. He's a door-to-door salesman.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Kiyoko Mita</b> <i>(played by Miki Sanjō)</i><br>
+            A resident of room 102 on the 1st floor of Grauenheim.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Gorō Katase</b> <i>(played by Shigeru Honma)</i><br>
+            A resident of room 203 on the 2nd floor of Grauenheim. He works as a sound engineer.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Eiko Shibata</b> <i>(played by Hiroko Isayama)</i><br>
+            A resident of room 204 on the 2nd floor of Grauenheim. She's a surgeon.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Ryūma Shinjō</b> <i>(played by Tenmei Kanō)</i><br>
+            A resident of room 305 on the 3rd floor of Grauenheim.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Umeko Maruta</b> <i>(played by Hairi Katagiri)</i><br>
+            A resident of room 306 on the 3rd floor of Grauenheim. She's an enka singer and somewhat of a minor celebrity with a hit song "My Love is Armageddon". She seems to have a secret lover at Grauenheim.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Nobuhiko Ōta</b> <i>(played by Minoru Terada)</i><br>
+            A resident of room 509 on the 5th floor of Grauenheim.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Asao Tsunoda</b> <i>(played by Tetsu Watanabe)</i><br>
+            Nao's father and president of Ishida Construction.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Kikuo Yokomizo</b> <i>(played by Hideyo Amamoto)</i><br>
+            A lawyer, representing Saiko Yukimura, who is responsible for attracting people to take up residency in the Grauenheim apartments.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Saiko Yukimura</b><br>
+            The owner of Grauenheim.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Ai Shinjō</b> <i>(played by Ayaka Izumi)</i><br>
+            A young girl with a rough upbringing who lives in a children's orphanage.
+        </td>
+    </tr>
+    <tr>
+        <td>NULL</td>
+        <td>
+            <b>Matsunaga</b> <i>(played by Yasuhiro Arai)</i><br>
+            A moving company driver who handled Nao's move. He speaks German, and assists Nao with her investigation of the original "Torikago no Grauenheim" murder case in Germany.
+        </td>
     </tr>
 </table>
