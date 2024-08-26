@@ -1,4 +1,4 @@
-<h1>Grauen no Torikago (Birdcage of Horrors)</h1>
+<h1>Birdcage of Horrors</h1>
 <img width="165" height="165" align="right" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cover.jpg?raw=true">Download the English translation patches (more information in the <a href="#patching-instructions">Patching Instructions</a> section) for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer.
 <br><br>
 <ul>
