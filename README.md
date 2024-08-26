@@ -18,7 +18,7 @@
 <h2>Table of Contents</h2>
 
 1. [Patching Instructions](#patching-instructions)
-2. [About the Film Series](#About the Film Series)
+2. [About the Film Series](#about-the-film-series)
 
 <h2>Patching Instructions</h2>
 <img align="right" width="250" src="https://github.com/DerekPascarella/UniversalDreamcastPatcher/blob/main/screenshots/screenshot.png?raw=true">The DCP patch file shipped with this release is designed for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer.  Note that Universal Dreamcast Patcher supports both TOSEC-style GDI and Redump-style CUE disc images as source input.
