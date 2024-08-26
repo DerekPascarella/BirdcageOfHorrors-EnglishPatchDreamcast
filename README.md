@@ -42,7 +42,7 @@
    <li>Derek Pascarella (ateam)</li>
   </ul>
  <br>
- <li><b>Original Story Translation</b></li>
+ <li><b>Original Story Video Transcription and Translation</b></li>
   <ul>
    <li>Anonymous</li>
   </ul>
