@@ -100,7 +100,7 @@ The film series was available through the <a href="https://segaretro.org/Sega_Di
 <br><br>
 Additionally, a <a href="https://web.archive.org/web/20000817025240/http://www.e-sekai.com/grauen/">dedicated "Birdcage of Horrors" website</a> was hosted by ASCII Entertainment & Communications where viewers could stream the series using Windows Media Player, RealPlayer, or QuickTime Player on their PC or Mac.
 <br><br>
-Shortly after the final episode was released, the servers went offline. While there does exist a special VMU save file that allows viewers to watch the content on all six GD-ROMs, this English translation patch removes this requirement. Instead, all six discs function as standalone pieces of software.
+Shortly after the final episode was released, the servers went offline. While there does exist a special VMU save file that allows viewers to watch the content on all six GD-ROMs, this English translation patch removes this requirement. Instead, all six discs now function as standalone pieces of software.
 
 <h2>Playback Controls</h2>
 <img width="267" height="200" align="right" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/controls.jpg?raw=true">Controlling playback of the film series is done via standard Dreamcast controller. No other input peripherals, such as mouse or keyboard, are supported.
