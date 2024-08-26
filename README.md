@@ -76,7 +76,7 @@ Shortly after the final episode was released, the servers went offline. While th
 <br><br>
 <table>
     <tr>
-        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/nao.jpg?raw=true"></td>
+        <td><img width="85" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/nao.jpg?raw=true"></td>
         <td>
             <b>Nao Tsunoda</b> <i>(played by Sayaka Yoshino)</i><br>
             The main character of the story. She's a high school girl who starts living alone in room 408 on the 4th floor of the "Grauenheim" apartment building, which her father rented for her.
