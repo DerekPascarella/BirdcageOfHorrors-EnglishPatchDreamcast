@@ -1,7 +1,5 @@
 <h1>Birdcage of Horrors</h1>
-<img width="165" height="165" align="right" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cover.jpg?raw=true">Download the English translation patches (more information in the <a href="#patching-instructions">Patching Instructions</a> section) for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer.
-<br><br>
-These patches are meant to be applied against the original TOSEC or Redump rips of "Grauen no Torikago" for the Sega Dreamcast.
+<img width="165" height="165" align="right" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cover.jpg?raw=true">Download the English translation patches (more information in the <a href="#patching-instructions">Patching Instructions</a> section) for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer. They are meant to be applied against the original TOSEC or Redump rips of "Grauen no Torikago" for the Sega Dreamcast.
 <br><br>
 <ul>
  <li><b>Birdcage of Horrors - Chapter 1 - Contract</b><br>Download <a href="xxxx">Birdcage of Horrors - Chapter 1 - Contract (English - v1.0).dcp</a>.</li>
