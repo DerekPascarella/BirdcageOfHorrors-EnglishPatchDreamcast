@@ -82,7 +82,7 @@
 </ul>
 
 <h2>What's Changed</h2>
-<img width="210" height="230" align="right" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/controller_with_vmu.jpg?raw=true">Below is a high-level list of changes implemented for this English translation patch.
+<img width="208" height="210" align="right" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/controller_with_vmu.jpg?raw=true">Below is a high-level list of changes implemented for this English translation patch.
 <br><br>
 <ul>
  <li>New English-language title screen graphics have been implemented.</li>
