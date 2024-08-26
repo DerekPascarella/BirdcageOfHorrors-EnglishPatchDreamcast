@@ -2,17 +2,17 @@
 <img width="165" height="165" align="right" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cover.jpg?raw=true">Download the English translation patches (more information in the <a href="#patching-instructions">Patching Instructions</a> section) for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer.
 <br><br>
 <ul>
- <li><b>Birdcage of Horrors - Chapter 1 - Contract</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%201%20-%20Keiyaku%20(Restoration%20Patch).dcp">Birdcage of Horrors - Chapter 1 - Contract (English - v1.0).dcp</a>.</li>
+ <li><b>Birdcage of Horrors - Chapter 1 - Contract</b><br>Download <a href="xxxx">Birdcage of Horrors - Chapter 1 - Contract (English - v1.0).dcp</a>.</li>
  <br>
-  <li><b>Birdcage of Horrors - Chapter 2 - Birdcage</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%202%20-%20Torikago%20(Restoration%20Patch).dcp">Birdcage of Horrors - Chapter 2 - Birdcage (English - v1.0).dcp</a>.</li>
+  <li><b>Birdcage of Horrors - Chapter 2 - Birdcage</b><br>Download <a href="xxxx">Birdcage of Horrors - Chapter 2 - Birdcage (English - v1.0).dcp</a>.</li>
  <br>
-  <li><b>Birdcage of Horrors - Chapter 3 - Completion</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%203%20-%20Kansei%20(Restoration%20Patch).dcp">Birdcage of Horrors - Chapter 3 - Completion (English - v1.0).dcp</a>.</li>
+  <li><b>Birdcage of Horrors - Chapter 3 - Completion</b><br>Download <a href="xxxx">Birdcage of Horrors - Chapter 3 - Completion (English - v1.0).dcp</a>.</li>
  <br>
-  <li><b>Birdcage of Horrors - Chapter 4 - Encounter</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%204%20-%20Kaikou%20(Restoration%20Patch).dcp">Birdcage of Horrors - Chapter 4 - Encounter (English - v1.0).dcp</a>.</li>
+  <li><b>Birdcage of Horrors - Chapter 4 - Encounter</b><br>Download <a href="xxxx">Birdcage of Horrors - Chapter 4 - Encounter (English - v1.0).dcp</a>.</li>
  <br>
-  <li><b>Birdcage of Horrors - Chapter 5 - Atonement</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%205%20-%20Shokuzai%20(Restoration%20Patch).dcp">Birdcage of Horrors - Chapter 5 - Atonement (English - v1.0).dcp</a>.</li>
+  <li><b>Birdcage of Horrors - Chapter 5 - Atonement</b><br>Download <a href="xxxx">Birdcage of Horrors - Chapter 5 - Atonement (English - v1.0).dcp</a>.</li>
  <br>
-  <li><b>Birdcage of Horrors - Chapter 6 - Tremor</b><br>Download <a href="https://github.com/DerekPascarella/GrauenNoTorikagoRestorationPatchDreamcast/raw/main/patches/Grauen%20no%20Torikago%20-%20Kapitel%206%20-%20Senritsu%20(Restoration%20Patch).dcp">Birdcage of Horrors - Chapter 6 - Tremor (English - v1.0).dcp</a>.</li>
+  <li><b>Birdcage of Horrors - Chapter 6 - Tremor</b><br>Download <a href="xxxx">Birdcage of Horrors - Chapter 6 - Tremor (English - v1.0).dcp</a>.</li>
 </ul>
 
 <h2>Table of Contents</h2>
