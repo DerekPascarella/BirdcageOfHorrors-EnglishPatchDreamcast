@@ -76,91 +76,91 @@ Shortly after the final episode was released, the servers went offline. While th
 <br><br>
 <table>
     <tr>
-        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/nao.jpg?raw=true"></td>
+        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/nao.jpg?raw=true"></td>
         <td>
             <b>Nao Tsunoda</b> <i>(played by Sayaka Yoshino)</i><br>
             The main character of the story. She's a high school girl who starts living alone in room 408 on the 4th floor of the "Grauenheim" apartment building, which her father rented for her.
         </td>
     </tr>
     <tr>
-        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/tetsu.jpg?raw=true"></td>
+        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/tetsu.jpg?raw=true"></td>
         <td>
             <b>Tetsu Takamura</b> <i>(played by Norihiko Okuma)</i><br>
             A young university student who works part-time at the Grauenheim apartment building's café. He cares a lot for Nao.
         </td>
     </tr>
     <tr>
-        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/goda.jpg?raw=true"></td>
+        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/goda.jpg?raw=true"></td>
         <td>
             <b>Detective Gōda</b> <i>(played by Setsurō Watanabe)</i><br>
             A detective from the Den-en Police Station who leads the investigation.
         </td>
     </tr>
     <tr>
-        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/saburo.jpg?raw=true"></td>
+        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/saburo.jpg?raw=true"></td>
         <td>
             <b>Saburō Maeda</b> <i>(played by Hiroshi Kōbe)</i><br>
             The manager of the apartment and the owner of its basement café.
         </td>
     </tr>
     <tr>
-        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/zenchiro.jpg?raw=true"></td>
+        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/zenchiro.jpg?raw=true"></td>
         <td>
             <b>Immoral Iwata (Zenichirō Iwata)</b> <i>(played by Pepe Hosokoshi)</i><br>
             A resident of room 510 on the 5th floor of Grauenheim. He's a professional wrestler, and his signature move is the "Immoral Special".
         </td>
     </tr>
     <tr>
-        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/eriko.jpg?raw=true"></td>
+        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/eriko.jpg?raw=true"></td>
         <td>
             <b>Eriko Shimizu</b> <i>(played by Kaoru Sugita)</i><br>
             A resident of room 407 on the 4th floor of Grauenheim. She works in the medical field.
         </td>
     </tr>
     <tr>
-        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/ryoji.jpg?raw=true"></td>
+        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/ryoji.jpg?raw=true"></td>
         <td>
             <b>Ryōji Karino</b> <i>(played by Kinzo Sakura)</i><br>
             A resident of room 101 on the 1st floor of Grauenheim. He's a door-to-door salesman.
         </td>
     </tr>
     <tr>
-        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/kiyoko.jpg?raw=true"></td>
+        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/kiyoko.jpg?raw=true"></td>
         <td>
             <b>Kiyoko Mita</b> <i>(played by Miki Sanjō)</i><br>
             A resident of room 102 on the 1st floor of Grauenheim.
         </td>
     </tr>
     <tr>
-        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/goro.jpg?raw=true"></td>
+        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/goro.jpg?raw=true"></td>
         <td>
             <b>Gorō Katase</b> <i>(played by Shigeru Honma)</i><br>
             A resident of room 203 on the 2nd floor of Grauenheim. He works as a sound engineer.
         </td>
     </tr>
     <tr>
-        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/eiko.jpg?raw=true"></td>
+        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/eiko.jpg?raw=true"></td>
         <td>
             <b>Eiko Shibata</b> <i>(played by Hiroko Isayama)</i><br>
             A resident of room 204 on the 2nd floor of Grauenheim. She's a surgeon.
         </td>
     </tr>
     <tr>
-        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/ryuma.jpg?raw=true"></td>
+        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/ryuma.jpg?raw=true"></td>
         <td>
             <b>Ryūma Shinjō</b> <i>(played by Tenmei Kanō)</i><br>
             A resident of room 305 on the 3rd floor of Grauenheim.
         </td>
     </tr>
     <tr>
-        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/umeko.jpg?raw=true"></td>
+        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/umeko.jpg?raw=true"></td>
         <td>
             <b>Umeko Maruta</b> <i>(played by Hairi Katagiri)</i><br>
             A resident of room 306 on the 3rd floor of Grauenheim. She's an enka singer and somewhat of a minor celebrity with a hit song "My Love is Armageddon". She seems to have a secret lover at Grauenheim.
         </td>
     </tr>
     <tr>
-        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/nobuhiko.jpg?raw=true"></td>
+        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/nobuhiko.jpg?raw=true"></td>
         <td>
             <b>Nobuhiko Ōta</b> <i>(played by Minoru Terada)</i><br>
             A resident of room 509 on the 5th floor of Grauenheim.
@@ -174,14 +174,14 @@ Shortly after the final episode was released, the servers went offline. While th
         </td>
     </tr>
     <tr>
-        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/kikuo.jpg?raw=true"></td>
+        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/kikuo.jpg?raw=true"></td>
         <td>
             <b>Kikuo Yokomizo</b> <i>(played by Hideyo Amamoto)</i><br>
             A lawyer, representing Saiko Yukimura, who is responsible for attracting people to take up residency in the Grauenheim apartments.
         </td>
     </tr>
     <tr>
-        <td><img width="65" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/saiko.jpg?raw=true"></td>
+        <td><img width="85" height="72" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/saiko.jpg?raw=true"></td>
         <td>
             <b>Saiko Yukimura</b><br>
             The owner of Grauenheim.
