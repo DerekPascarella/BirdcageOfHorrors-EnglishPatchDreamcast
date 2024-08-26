@@ -49,7 +49,7 @@
  <br>
  <li><b>Interview Video Transcription</b></li>
   <ul>
-   <li>Tchan</li>
+   <li>T_chan</li>
   </ul>
  <br>
  <li><b>Interview Video Translation</b></li>
