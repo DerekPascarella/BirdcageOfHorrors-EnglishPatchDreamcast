@@ -85,15 +85,11 @@
 <img width="210" height="230" align="right" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/controller_with_vmu.jpg?raw=true">Below is a high-level list of changes implemented for this English translation patch.
 <br><br>
 <ul>
- <li>xxxxx</li>
- <li>xxxxx</li>
- <li>xxxxx</li>
- <li>xxxxx</li>
- <li>xxxxx</li>
- <li>xxxxx</li>
- <li>xxxxx</li>
- <li>xxxxx</li>
- <li>xxxxx</li>
+ <li>New English-language title screen graphics have been implemented.</li>
+ <li>New English-language playback software graphics (e.g., contents list, logo, messages) have been implemented.</li>
+ <li>A new English-language VMU icon has been implemented, including brand-new code for VMU icon support missing from original software.</li>
+ <li>Lockout mechanism has been removed which prevented video playback without the use of special VMU save files, allowing each disc to function standalone.</li>
+ <li>All 407 videos (film series chapters, bonus clips, extra footage, and interviews) has been translated and subtitled into English.</li>
 </ul>
 
 <h2>About the Film Series</h2>
