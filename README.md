@@ -213,7 +213,7 @@ Note that hot-swapping discs is supported, meaning after a completing Chapter 1,
     <tr>
         <td><img width="95" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/ryuma.jpg?raw=true"></td>
         <td>
-            <b>Ryūma Shinjō</b> <i>(played by Tenmei Kanō)</i><br>
+            <b>Ryōma Shinjō</b> <i>(played by Tenmei Kanō)</i><br>
             A resident of room 305 on the 3rd floor of Grauenheim.
         </td>
     </tr>
