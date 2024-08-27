@@ -1,5 +1,9 @@
 <h1>Birdcage of Horrors</h1>
-<img width="165" height="165" align="right" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cover.jpg?raw=true">Download the English translation patches (more information in the <a href="#patching-instructions">Patching Instructions</a> section) for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer. They are meant to be applied against the original TOSEC or Redump rips of "Grauen no Torikago" for the Sega Dreamcast.
+<img width="165" height="165" align="right" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cover.jpg?raw=true">Download the English translation patches (more information in the <a href="#patching-instructions">Patching Instructions</a> section) for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer.
+<br><br>
+These patches are meant to be applied against the original TOSEC or Redump rips of "Grauen no Torikago" for the Sega Dreamcast, and are for use with ODEs (GDEMU, MODE, USB-GDROM) and emulators.
+<br><br>
+Note that, for two reasons, no CDI version of these patches is presently available for those without an ODE who require burning to CD-R. Firstly, no "scene" CDI releases for these titles were ever released, and therefore there are no source disc images against which patches can be generated and distributed. For legal reasons, the distribution of patched and complete CDIs is not being offered by this translation project. Secondly, because all six original GD-ROMs utilized nearly the entire capacity of the disc, the aggressive video downsampling required to fit their contents on a CD-R results in very poor video quality.
 <br><br>
 <ul>
  <li><b>Birdcage of Horrors - Chapter 1 - Contract</b><br>Download <a href="xxxx">Birdcage of Horrors - Chapter 1 - Contract (English - v1.0).dcp</a>.</li>
@@ -104,6 +108,8 @@ Shortly after the final episode was released, the servers went offline. While th
 
 <h2>Playback Controls</h2>
 <img width="267" height="200" align="right" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/controls.jpg?raw=true">Controlling playback of the film series is done via standard Dreamcast controller. No other input peripherals, such as mouse or keyboard, are supported.
+<br><br>
+Note that hot-swapping discs is supported, meaning after a completing Chapter 1, for example, a user can use their ODE to virtually swap in Chapter 2. Disc swapping like this is achievable with GDEMU, MODE, and USB-GDROM.
 <br><br>
 <table>
     <tr>
@@ -265,4 +271,4 @@ Shortly after the final episode was released, the servers went offline. While th
 </table>
 
 <h2>Bug Reports and Typos</h2>
-Should a player encounter what they believe to be a bug or typo (spelling/grammar error) during their viewing of "Birdcage of Horrors", it's asked that they please share their findings by <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/issues/new">submitting a new issue</a>.
+Should a user encounter what they believe to be a bug or typo (spelling/grammar error) during their viewing of "Birdcage of Horrors", it's asked that they please share their findings by <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/issues/new">submitting a new issue</a>.
