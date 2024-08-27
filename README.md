@@ -3,7 +3,7 @@
 <br><br>
 These patches are meant to be applied against the original TOSEC or Redump rips of "Grauen no Torikago" for the Sega Dreamcast, and are for use with ODEs (GDEMU, MODE, USB-GDROM) and emulators.
 <br><br>
-Note that, for two reasons, no CDI version of these patches is presently available for those without an ODE who require burning to CD-R. Firstly, no "scene" CDI releases for these titles were ever released, and therefore there are no source disc images against which patches can be generated and distributed. For legal reasons, the distribution of patched and complete CDIs is not being offered by this translation project. Secondly, because all six original GD-ROMs utilized nearly the entire capacity of the disc, the aggressive video downsampling required to fit their contents on a CD-R results in very poor video quality.
+Note that, for two reasons, no CDI version of these patches is presently available for those without an ODE who require burning to CD-R. Firstly, no "scene" CDI releases for these titles were ever released, and therefore there are no source disc images against which patches can be generated and distributed. For legal reasons, the distribution of patched and complete CDIs is not being offered by this translation project. Secondly, because all six original GD-ROMs utilized nearly the entire capacity of the disc, the aggressive video downsampling required to fit their contents on a CD-R results in very poor video quality, unacceptable by the standards adhered to with this project.
 <br><br>
 <ul>
  <li><b>Birdcage of Horrors - Chapter 1 - Contract</b><br>Download <a href="xxxx">Birdcage of Horrors - Chapter 1 - Contract (English - v1.0).dcp</a>.</li>
