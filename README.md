@@ -4,11 +4,11 @@
 Note that, for two reasons, no CDI version of these patches is presently available for those without an ODE who require burning to CD-R. Firstly, no "scene" CDI releases for these titles were ever released, and therefore there are no source disc images against which patches can be generated and distributed. For legal reasons, the distribution of patched and complete CDIs is not being offered by this translation project. Secondly, because all six original GD-ROMs utilized nearly the entire capacity of the disc, the aggressive video downsampling required to fit their contents on a CD-R results in very poor video quality, unacceptable by this project's standards.
 <br><br>
 <ul>
- <li><b>Birdcage of Horrors - Chapter 1 - Contract</b><br>Download <a href="xxxx">Birdcage of Horrors - Chapter 1 - Contract (English v1.0).dcp</a>.</li>
+ <li><b>Birdcage of Horrors - Chapter 1 - Contract</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.0/Birdcage.of.Horrors.-.Chapter.1.-.Contract.English.v1.0.dcp">Birdcage of Horrors - Chapter 1 - Contract (English v1.0).dcp</a>.</li>
  <br>
-  <li><b>Birdcage of Horrors - Chapter 2 - Birdcage</b><br>Download <a href="xxxx">Birdcage of Horrors - Chapter 2 - Birdcage (English v1.0).dcp</a>.</li>
+  <li><b>Birdcage of Horrors - Chapter 2 - Birdcage</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.0/Birdcage.of.Horrors.-.Chapter.2.-.Birdcage.English.v1.0.dcp">Birdcage of Horrors - Chapter 2 - Birdcage (English v1.0).dcp</a>.</li>
  <br>
-  <li><b>Birdcage of Horrors - Chapter 3 - Completion</b><br>Download <a href="xxxx">Birdcage of Horrors - Chapter 3 - Completion (English v1.0).dcp</a>.</li>
+  <li><b>Birdcage of Horrors - Chapter 3 - Completion</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.0/Birdcage.of.Horrors.-.Chapter.3.-.Completion.English.v1.0.dcp">Birdcage of Horrors - Chapter 3 - Completion (English v1.0).dcp</a>.</li>
  <br>
   <li><b>Birdcage of Horrors - Chapter 4 - Encounter</b><br>Download <a href="xxxx">Birdcage of Horrors - Chapter 4 - Encounter (English v1.0).dcp</a>.</li>
  <br>
