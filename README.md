@@ -93,7 +93,7 @@ Note that, for two reasons, no CDI version of these patches is presently availab
  <li>A new English-language VMU icon has been implemented, including brand-new code for VMU icon support missing from original software.</li>
  <li>Lockout mechanism has been removed which prevented video playback without the use of special VMU save files, allowing each disc to function standalone.</li>
  <li>All 407 videos (film series chapters, bonus clips, extra footage, and interviews) have been translated and subtitled into English.</li>
- <li>Added an English-language disc art PVR to all six discs for users of GDmenu on GDEMU.</li>
+ <li>Added an English-language disc art PVRs to all six discs for users of GDmenu on GDEMU.</li>
 </ul>
 
 <h2>About the Film Series</h2>
