@@ -10,7 +10,7 @@ Note that, for two reasons, no CDI version of these patches is presently availab
  <br>
   <li><b>Birdcage of Horrors - Chapter 3 - Completion</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.0/Birdcage.of.Horrors.-.Chapter.3.-.Completion.English.v1.0.dcp">Birdcage of Horrors - Chapter 3 - Completion (English v1.0).dcp</a>.</li>
  <br>
-  <li><b>Birdcage of Horrors - Chapter 4 - Encounter</b><br>Download <a href="xxxx">Birdcage of Horrors - Chapter 4 - Encounter (English v1.0).dcp</a>.</li>
+  <li><b>Birdcage of Horrors - Chapter 4 - Encounter</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.0/Birdcage.of.Horrors.-.Chapter.4.-.Encounter.English.v1.0.dcp">Birdcage of Horrors - Chapter 4 - Encounter (English v1.0).dcp</a>.</li>
  <br>
   <li><b>Birdcage of Horrors - Chapter 5 - Atonement</b><br>Download <a href="xxxx">Birdcage of Horrors - Chapter 5 - Atonement (English v1.0).dcp</a>.</li>
  <br>
