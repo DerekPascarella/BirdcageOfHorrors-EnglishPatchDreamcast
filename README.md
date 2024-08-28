@@ -78,7 +78,7 @@ Note that, for two reasons, no CDI version of these patches is presently availab
 
 <h2>Release Changelog</h2>
 <ul>
- <li><b>Version 1.0 (2024-XX-XX)</b></li>
+ <li><b>Version 1.0 (2024-08-28)</b></li>
  <ul>
   <li>Initial release.</li>
  </ul>
