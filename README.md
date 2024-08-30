@@ -264,7 +264,7 @@ Note that hot-swapping discs is supported, meaning after a completing Chapter 1,
         <td><img width="95" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cast/matsunaga.jpg?raw=true"></td>
         <td>
             <b>Matsunaga</b> <i>(played by Yasuhiro Arai)</i><br>
-            A moving company driver who handled Nao's move. He speaks German, and assists Nao with her investigation of the original "Torikago no Grauenheim" murder case in Germany.
+            A moving company driver who handled Nao's move. He speaks German, and assists Nao with her investigation of the original "Birdcage of Horrors" murder case in Germany.
         </td>
     </tr>
 </table>
