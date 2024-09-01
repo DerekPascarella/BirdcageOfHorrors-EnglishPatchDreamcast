@@ -1,6 +1,6 @@
 <h1>Birdcage of Horrors</h1>
 
-![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) **NOTICE:** _Numerous typos have been identified since the v1.0 release, all visible in the <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/issues">issues section</a>. An updated v1.1 release will be forthcoming, though an exact timeframe is yet to be determined._
+![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) **NOTICE:** _Numerous typos have been identified since the v1.0 release, all visible in the <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/issues?q=label%3A%22fixed+in+next+build+%28v1.1%29%22+">issues section</a>. An updated v1.1 release will be forthcoming, though an exact timeframe is yet to be determined._
 <br><br>
 <img width="168" height="165" align="right" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cover_3d.png?raw=true">Download the English translation patches (more information in the <a href="#patching-instructions">Patching Instructions</a> section) for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer. They are meant to be applied against the original TOSEC or Redump rips of "Grauen no Torikago" for the Sega Dreamcast, and are for use with ODEs (GDEMU, MODE, USB-GDROM) and emulators.
 <br><br>
