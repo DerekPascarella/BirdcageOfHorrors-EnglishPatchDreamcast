@@ -82,7 +82,7 @@ Note that, for two reasons, no CDI version of these patches is presently availab
  <li><b>Version 1.1 (2024-09-05)</b></li>
  <ul>
   <li>Fixed numerous typos throughout all six chapters (<a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/issues?q=label%3A%22fixed+in+next+build+%28v1.1%29%22+">see issue reports</a>).</li>
-  <li>Fixed mistranslated Chapter 3 title, now named "Trap" instead of "Completion" (thanks <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/issues/4#issuecomment-2323868416">medusa199</a>).</li>
+  <li>Fixed mistranslated Chapter 3 title, now named "Trap" instead of "Completion" (thanks <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/issues/4#issuecomment-2323868416">medusa1999</a>).</li>
  </ul>
  <li><b>Version 1.0 (2024-08-28)</b></li>
  <ul>
