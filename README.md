@@ -1,23 +1,21 @@
 <h1>Birdcage of Horrors</h1>
 
-![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) **NOTICE:** _Numerous typos have been identified since the v1.0 release, all visible in the <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/issues?q=label%3A%22fixed+in+next+build+%28v1.1%29%22+">issues section</a>. An updated v1.1 release will be forthcoming, though an exact timeframe is yet to be determined._
-<br><br>
 <img width="168" height="165" align="right" src="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/blob/main/images/cover_3d.png?raw=true">Download the English translation patches (more information in the <a href="#patching-instructions">Patching Instructions</a> section) for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer. They are meant to be applied against the original TOSEC or Redump rips of "Grauen no Torikago" for the Sega Dreamcast, and are for use with ODEs (GDEMU, MODE, USB-GDROM) and emulators.
 <br><br>
 Note that, for two reasons, no CDI version of these patches is presently available for those without an ODE who require burning to CD-R. Firstly, no "scene" CDI releases for these titles were ever released, and therefore there are no source disc images against which patches can be generated and distributed. For legal reasons, the distribution of patched and complete CDIs is not being offered by this translation project. Secondly, because all six original GD-ROMs utilized nearly the entire capacity of the disc, the aggressive video downsampling required to fit their contents on a CD-R results in very poor video quality, unacceptable by this project's standards.
 <br><br>
 <ul>
- <li><b>Birdcage of Horrors - Chapter 1 - Contract</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.0/Birdcage.of.Horrors.-.Chapter.1.-.Contract.English.v1.0.dcp">Birdcage of Horrors - Chapter 1 - Contract (English v1.0).dcp</a>.</li>
+ <li><b>Birdcage of Horrors - Chapter 1 - Contract</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.1/Birdcage.of.Horrors.-.Chapter.1.-.Contract.English.v1.1.dcp">Birdcage of Horrors - Chapter 1 - Contract (English v1.1).dcp</a>.</li>
  <br>
-  <li><b>Birdcage of Horrors - Chapter 2 - Birdcage</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.0/Birdcage.of.Horrors.-.Chapter.2.-.Birdcage.English.v1.0.dcp">Birdcage of Horrors - Chapter 2 - Birdcage (English v1.0).dcp</a>.</li>
+  <li><b>Birdcage of Horrors - Chapter 2 - Birdcage</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.1/Birdcage.of.Horrors.-.Chapter.2.-.Birdcage.English.v1.1.dcp">Birdcage of Horrors - Chapter 2 - Birdcage (English v1.1).dcp</a>.</li>
  <br>
-  <li><b>Birdcage of Horrors - Chapter 3 - Completion</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.0/Birdcage.of.Horrors.-.Chapter.3.-.Completion.English.v1.0.dcp">Birdcage of Horrors - Chapter 3 - Completion (English v1.0).dcp</a>.</li>
+  <li><b>Birdcage of Horrors - Chapter 3 - Trap</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.1/Birdcage.of.Horrors.-.Chapter.3.-.Trap.English.v1.1.dcp">Birdcage of Horrors - Chapter 3 - Completion (English v1.1).dcp</a>.</li>
  <br>
-  <li><b>Birdcage of Horrors - Chapter 4 - Encounter</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.0/Birdcage.of.Horrors.-.Chapter.4.-.Encounter.English.v1.0.dcp">Birdcage of Horrors - Chapter 4 - Encounter (English v1.0).dcp</a>.</li>
+  <li><b>Birdcage of Horrors - Chapter 4 - Encounter</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.1/Birdcage.of.Horrors.-.Chapter.4.-.Encounter.English.v1.1.dcp">Birdcage of Horrors - Chapter 4 - Encounter (English v1.1).dcp</a>.</li>
  <br>
-  <li><b>Birdcage of Horrors - Chapter 5 - Atonement</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.0/Birdcage.of.Horrors.-.Chapter.5.-.Atonement.English.v1.0.dcp">Birdcage of Horrors - Chapter 5 - Atonement (English v1.0).dcp</a>.</li>
+  <li><b>Birdcage of Horrors - Chapter 5 - Atonement</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.1/Birdcage.of.Horrors.-.Chapter.5.-.Atonement.English.v1.1.dcp">Birdcage of Horrors - Chapter 5 - Atonement (English v1.1).dcp</a>.</li>
  <br>
-  <li><b>Birdcage of Horrors - Chapter 6 - Tremor</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.0/Birdcage.of.Horrors.-.Chapter.6.-.Tremor.English.v1.0.dcp">Birdcage of Horrors - Chapter 6 - Tremor (English v1.0).dcp</a>.</li>
+  <li><b>Birdcage of Horrors - Chapter 6 - Tremor</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.1/Birdcage.of.Horrors.-.Chapter.6.-.Tremor.English.v1.1.dcp">Birdcage of Horrors - Chapter 6 - Tremor (English v1.1).dcp</a>.</li>
 </ul>
 
 <h2>Table of Contents</h2>
@@ -81,6 +79,11 @@ Note that, for two reasons, no CDI version of these patches is presently availab
 
 <h2>Release Changelog</h2>
 <ul>
+ <li><b>Version 1.1 (2024-09-05)</b></li>
+ <ul>
+  <li>Fixed numerous typos throughout all six chapter (<a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/issues?q=label%3A%22fixed+in+next+build+%28v1.1%29%22+">see issue reports</a>).</li>
+  <li>Fixed mistranslated Chapter 3 title, now named "Trap" instead of "Completion" (thanks <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/issues/4#issuecomment-2323868416">medusa199</a>).</li>
+ </ul>
  <li><b>Version 1.0 (2024-08-28)</b></li>
  <ul>
   <li>Initial release.</li>
