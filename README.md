@@ -9,7 +9,7 @@ Note that, for two reasons, no CDI version of these patches is presently availab
  <br>
   <li><b>Birdcage of Horrors - Chapter 2 - Birdcage</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.1/Birdcage.of.Horrors.-.Chapter.2.-.Birdcage.English.v1.1.dcp">Birdcage of Horrors - Chapter 2 - Birdcage (English v1.1).dcp</a>.</li>
  <br>
-  <li><b>Birdcage of Horrors - Chapter 3 - Trap</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.1/Birdcage.of.Horrors.-.Chapter.3.-.Trap.English.v1.1.dcp">Birdcage of Horrors - Chapter 3 - Completion (English v1.1).dcp</a>.</li>
+  <li><b>Birdcage of Horrors - Chapter 3 - Trap</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.1/Birdcage.of.Horrors.-.Chapter.3.-.Trap.English.v1.1.dcp">Birdcage of Horrors - Chapter 3 - Trap (English v1.1).dcp</a>.</li>
  <br>
   <li><b>Birdcage of Horrors - Chapter 4 - Encounter</b><br>Download <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/releases/download/1.1/Birdcage.of.Horrors.-.Chapter.4.-.Encounter.English.v1.1.dcp">Birdcage of Horrors - Chapter 4 - Encounter (English v1.1).dcp</a>.</li>
  <br>
