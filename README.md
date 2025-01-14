@@ -38,6 +38,7 @@ Note that, for two reasons, no CDI version of these patches is presently availab
  <li>Click "Apply Patch" to generate the patched GDI, which will be saved in the folder from which the application is launched.</li>
  <li>Click "Quit" to exit the application.</li>
 </ol>
+Depending on their hardware/firmware variant, users of the USB-GDROM ODE may have to convert the patched GDI from using raw 2352 bytes-per-sector BIN data tracks to 2048 bytes-per-sector ISO data tracks. To perform this conversion, simply place <a href="https://github.com/DerekPascarella/BirdcageOfHorrors-EnglishPatchDreamcast/raw/refs/heads/main/custom_tools/usbgdrom_fix.exe">usbgdrom_fix.exe</a> in the same folder as the <tt>.gdi</tt> file (along with the <tt>.bin</tt> and <tt>.raw</tt> files) and then launch it.
 
 <h2>Credits</h2>
 <ul>
